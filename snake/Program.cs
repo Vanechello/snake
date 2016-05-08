@@ -19,7 +19,7 @@ namespace snake
             char sim2 = '*';
              Draw(x2,y2,sim2);
 
-          
+           Console.ReadLine();
            
         }
         static void Draw(int x, int y, char sim)
@@ -27,6 +27,6 @@ namespace snake
             Console.SetCursorPosition(x, y);
             Console.WriteLine(sim);
         }
-        Console.ReadLine();
+       
     }
 
