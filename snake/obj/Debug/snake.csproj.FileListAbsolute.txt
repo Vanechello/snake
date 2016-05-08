@@ -1,0 +1,5 @@
+c:\users\eldorado-pc\documents\visual studio 2012\Projects\snake\snake\bin\Debug\snake.exe
+c:\users\eldorado-pc\documents\visual studio 2012\Projects\snake\snake\bin\Debug\snake.pdb
+c:\users\eldorado-pc\documents\visual studio 2012\Projects\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+c:\users\eldorado-pc\documents\visual studio 2012\Projects\snake\snake\obj\Debug\snake.exe
+c:\users\eldorado-pc\documents\visual studio 2012\Projects\snake\snake\obj\Debug\snake.pdb
